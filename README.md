@@ -1,2 +1,3 @@
 # cdmx_housing
-mercado inmobiliario cdmx
+
+Proyecto para evaluación del mercado inmobiliario en la cdmx.
